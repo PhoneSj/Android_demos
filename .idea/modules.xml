@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_demos.iml" filepath="$PROJECT_DIR$/Android_demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_mvp/Demo_mvp.iml" filepath="$PROJECT_DIR$/Demo_mvp/Demo_mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_rxjava/demo_rxjava.iml" filepath="$PROJECT_DIR$/demo_rxjava/demo_rxjava.iml" />
+    </modules>
+  </component>
+</project>
