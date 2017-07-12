@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Demo_dagger" />
             <option value="$PROJECT_DIR$/Demo_mvp" />
             <option value="$PROJECT_DIR$/Demo_realm" />
             <option value="$PROJECT_DIR$/Demo_retrofit" />
