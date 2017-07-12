@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Demo_mvp" />
-            <option value="$PROJECT_DIR$/demo_rxjava" />
+            <option value="$PROJECT_DIR$/Demo_realm" />
+            <option value="$PROJECT_DIR$/Demo_retrofit" />
+            <option value="$PROJECT_DIR$/Demo_rxjava" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

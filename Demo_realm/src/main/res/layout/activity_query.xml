@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar"/>
+
+    <Button
+        android:id="@+id/button_queryAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查询所有"/>
+
+    <Button
+        android:id="@+id/button_queryBy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="条件查询"/>
+
+    <Button
+        android:id="@+id/button_statistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="统计数据"/>
+
+</LinearLayout>

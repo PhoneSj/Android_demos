@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_demos.iml" filepath="$PROJECT_DIR$/Android_demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo_mvp/Demo_mvp.iml" filepath="$PROJECT_DIR$/Demo_mvp/Demo_mvp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo_rxjava/demo_rxjava.iml" filepath="$PROJECT_DIR$/demo_rxjava/demo_rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_realm/Demo_realm.iml" filepath="$PROJECT_DIR$/Demo_realm/Demo_realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_retrofit/Demo_retrofit.iml" filepath="$PROJECT_DIR$/Demo_retrofit/Demo_retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_rxjava/Demo_rxjava.iml" filepath="$PROJECT_DIR$/Demo_rxjava/Demo_rxjava.iml" />
     </modules>
   </component>
 </project>
