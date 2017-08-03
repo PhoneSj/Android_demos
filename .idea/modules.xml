@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_demos.iml" filepath="$PROJECT_DIR$/Android_demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_ThreadPool/Demo_ThreadPool.iml" filepath="$PROJECT_DIR$/Demo_ThreadPool/Demo_ThreadPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo_dagger/Demo_dagger.iml" filepath="$PROJECT_DIR$/Demo_dagger/Demo_dagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo_mvp/Demo_mvp.iml" filepath="$PROJECT_DIR$/Demo_mvp/Demo_mvp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo_realm/Demo_realm.iml" filepath="$PROJECT_DIR$/Demo_realm/Demo_realm.iml" />

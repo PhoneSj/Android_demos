@@ -1,1 +1,1 @@
-include ':Demo_mvp', ':Demo_rxjava', ':Demo_retrofit', ':Demo_realm', ':Demo_dagger'
+include ':Demo_mvp', ':Demo_rxjava', ':Demo_retrofit', ':Demo_realm', ':Demo_dagger', ':Demo_ThreadPool'
