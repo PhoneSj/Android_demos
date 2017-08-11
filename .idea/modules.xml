@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo_realm/Demo_realm.iml" filepath="$PROJECT_DIR$/Demo_realm/Demo_realm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo_retrofit/Demo_retrofit.iml" filepath="$PROJECT_DIR$/Demo_retrofit/Demo_retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo_rxjava/Demo_rxjava.iml" filepath="$PROJECT_DIR$/Demo_rxjava/Demo_rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo_svg/Demo_svg.iml" filepath="$PROJECT_DIR$/Demo_svg/Demo_svg.iml" />
     </modules>
   </component>
 </project>
